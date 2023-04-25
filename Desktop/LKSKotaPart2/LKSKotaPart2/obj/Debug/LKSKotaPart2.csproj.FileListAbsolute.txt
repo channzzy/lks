@@ -1,0 +1,15 @@
+c:\users\dell\documents\visual studio 2013\Projects\LKSKotaPart2\LKSKotaPart2\bin\Debug\LKSKotaPart2.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\LKSKotaPart2\LKSKotaPart2\bin\Debug\LKSKotaPart2.exe
+c:\users\dell\documents\visual studio 2013\Projects\LKSKotaPart2\LKSKotaPart2\bin\Debug\LKSKotaPart2.pdb
+c:\users\dell\documents\visual studio 2013\Projects\LKSKotaPart2\LKSKotaPart2\obj\Debug\LKSKotaPart2.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\LKSKotaPart2\LKSKotaPart2\obj\Debug\LKSKotaPart2.FormLogin.resources
+c:\users\dell\documents\visual studio 2013\Projects\LKSKotaPart2\LKSKotaPart2\obj\Debug\LKSKotaPart2.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2013\Projects\LKSKotaPart2\LKSKotaPart2\obj\Debug\LKSKotaPart2.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2013\Projects\LKSKotaPart2\LKSKotaPart2\obj\Debug\LKSKotaPart2.exe
+c:\users\dell\documents\visual studio 2013\Projects\LKSKotaPart2\LKSKotaPart2\obj\Debug\LKSKotaPart2.pdb
+c:\users\dell\documents\visual studio 2013\Projects\LKSKotaPart2\LKSKotaPart2\obj\Debug\LKSKotaPart2.admin.LogActivity.resources
+c:\users\dell\documents\visual studio 2013\Projects\LKSKotaPart2\LKSKotaPart2\bin\Debug\Guna.UI2.dll
+c:\users\dell\documents\visual studio 2013\Projects\LKSKotaPart2\LKSKotaPart2\obj\Debug\LKSKotaPart2.admin.KelolaUser.resources
+c:\users\dell\documents\visual studio 2013\Projects\LKSKotaPart2\LKSKotaPart2\obj\Debug\LKSKotaPart2.gudang.KelolaBarang.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\LKSKotaPart2\LKSKotaPart2\obj\Debug\LKSKotaPart2.kasir.KelolaTransaksi.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\LKSKotaPart2\LKSKotaPart2\obj\Debug\LKSKotaPart2.admin.KelolaLaporan.resources
